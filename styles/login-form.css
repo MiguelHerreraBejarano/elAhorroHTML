@@ -1,0 +1,168 @@
+.box {
+  width: 100%;
+  height: 100%;
+  background-color: #ffffff;
+}
+
+/* .box .elahorro-login-page {
+  position: fixed;
+  width: 1920px;
+  height: 1080px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 10px;
+} */
+
+.box .login-form {
+  position: relative;
+  width: 503px;
+  height: 779px;
+  top: 144px;
+  left: 712px;
+}
+
+.box .logo-img {
+  position: absolute;
+  width: 477px;
+  height: 296px;
+  top: -120px;
+  left: 9px;
+  object-fit: cover;
+}
+
+.box .overlap-group {
+  width: 495px;
+  height: 449px;
+  top: 215px;
+  left: 0;
+  background-color: #d9d9d9;
+  position: absolute;
+  border-radius: 10px;
+}
+
+.box .iniciar-title {
+  position: absolute;
+  width: 495px;
+  height: 51px;
+  top: 47px;
+  left: 0;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ff0000;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .email-section {
+  position: absolute;
+  width: 437px;
+  height: 75px;
+  top: 139px;
+  left: 30px;
+}
+
+.box .text-wrapper {
+  position: absolute;
+  width: 435px;
+  height: 22px;
+  top: 0;
+  left: 0;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #054178;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.box .div {
+  position: absolute;
+  width: 422px;
+  height: 39px;
+  border: none;
+  top: 36px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.box .clave-section {
+  position: absolute;
+  width: 437px;
+  height: 75px;
+  top: 255px;
+  left: 30px;
+}
+
+.box .overlap {
+  width: 178px;
+  height: 46px;
+  top: 381px;
+  left: 267px;
+  background-color: #064178;
+  cursor: pointer;
+  border: none;
+  position: absolute;
+  border-radius: 10px;
+}
+
+.box .login-text {
+  position: absolute;
+  width: 131px;
+  height: 23px;
+  top: 13px;
+  left: 23px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.box .register-text-wrapper {
+  width: 178px;
+  height: 46px;
+  top: 381px;
+  cursor: pointer;
+  border: none;
+  left: 51px;
+  background-color: #067863;
+  position: absolute;
+  border-radius: 10px;
+}
+
+.box .register-text {
+  position: absolute;
+  width: 111px;
+  height: 23px;
+  top: 13px;
+  left: 34px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.box .remember-t {
+  position: absolute;
+  width: 105px;
+  height: 17px;
+  top: 339px;
+  left: 30px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ff0000;
+  font-size: 12px;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+}

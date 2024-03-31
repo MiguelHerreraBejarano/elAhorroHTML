@@ -1,0 +1,323 @@
+.box {
+  position: relative;
+  width: 1618px;
+  height: 922px;
+  left: 7%;
+}
+
+.box .home-page {
+  width: 1618px;
+  height: 922px;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+}
+
+.box .nav-bar {
+  position: absolute;
+  width: 1168px;
+  height: 59px;
+  top: 118px;
+  left: 66px;
+}
+
+.box .navbar {
+  position: relative;
+  width: 1160px;
+  height: 59px;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.box .home-a {
+  position: absolute;
+  width: 246px;
+  height: 33px;
+  top: 13px;
+  left: 25px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #064178;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .separator {
+  position: absolute;
+  width: 1px;
+  height: 44px;
+  top: 8px;
+  left: 291px;
+  object-fit: cover;
+}
+
+.box .offerts-a {
+  position: absolute;
+  width: 246px;
+  height: 33px;
+  top: 13px;
+  left: 315px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #064178;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .img {
+  position: absolute;
+  width: 1px;
+  height: 44px;
+  top: 8px;
+  left: 580px;
+  object-fit: cover;
+}
+
+.box .sell-a {
+  position: absolute;
+  width: 246px;
+  height: 33px;
+  top: 13px;
+  left: 895px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #064178;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .separator-2 {
+  position: absolute;
+  width: 1px;
+  height: 44px;
+  top: 7px;
+  left: 872px;
+  object-fit: cover;
+}
+
+.box .story-a {
+  position: absolute;
+  width: 246px;
+  height: 33px;
+  top: 13px;
+  left: 605px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #064178;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .user-options {
+  width: 279px;
+  top: 100px;
+  left: 1266px;
+  position: absolute;
+  height: 100px;
+}
+
+.box .cart-icon {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 25px;
+  left: 0;
+}
+
+.box .bell-icon {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 25px;
+  left: 98px;
+}
+
+.box .user-menu {
+  width: 100px;
+  top: 0;
+  left: 179px;
+  position: absolute;
+  height: 100px;
+}
+
+.box .promotions-img {
+  position: absolute;
+  width: 1479px;
+  height: 318px;
+  top: 226px;
+  left: 66px;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.box .arrow {
+  left: 1380px;
+  position: absolute;
+  width: 99px;
+  height: 70px;
+  top: 124px;
+}
+
+.box .arrow-l {
+  left: 0;
+  position: absolute;
+  width: 99px;
+  height: 70px;
+  top: 124px;
+}
+
+.box .section-metodo-pago {
+  position: absolute;
+  width: 372px;
+  height: 330px;
+  top: 568px;
+  left: 189px;
+}
+
+.box .overlap {
+  width: 366px;
+  height: 330px;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.box .text-wrapper {
+  position: absolute;
+  width: 366px;
+  height: 33px;
+  top: 17px;
+  left: 0;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #064178;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .paymeth-icon {
+  position: absolute;
+  width: 207px;
+  height: 116px;
+  top: 68px;
+  left: 77px;
+}
+
+.box .div {
+  position: absolute;
+  width: 366px;
+  top: 184px;
+  left: 0;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .text-wrapper-2 {
+  position: absolute;
+  width: 366px;
+  height: 33px;
+  top: 283px;
+  left: 0;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ff0000;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .section {
+  position: absolute;
+  width: 372px;
+  height: 330px;
+  top: 568px;
+  left: 611px;
+}
+
+.box .img-2 {
+  position: absolute;
+  width: 207px;
+  height: 116px;
+  top: 68px;
+  left: 79px;
+}
+
+.box .section-tiendas {
+  position: absolute;
+  width: 372px;
+  height: 330px;
+  top: 568px;
+  left: 1033px;
+}
+
+.box .arrowleft {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 698px;
+  left: 124px;
+}
+
+.box .arrowright {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 698px;
+  left: 1414px;
+}
+
+.box .logo-img {
+  position: absolute;
+  width: 200px;
+  height: 82px;
+  top: 18px;
+  left: 74px;
+  object-fit: cover;
+}
+
+.box .overlap-wrapper {
+  position: absolute;
+  width: 733px;
+  height: 46px;
+  top: 36px;
+  left: 337px;
+}
+
+.box .overlap-group {
+  width: 731px;
+  height: 46px;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.box .search-t {
+  position: absolute;
+  width: 134px;
+  height: 23px;
+  top: 12px;
+  left: 20px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}

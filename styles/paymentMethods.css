@@ -1,0 +1,215 @@
+.box {
+  width: 1019px;
+  height: 964px;
+}
+
+.box .medios-de-pago {
+  position: fixed;
+  width: 1021px;
+  height: 964px;
+  top: 0;
+  left: 0;
+}
+
+.box .overlap-group {
+  position: relative;
+  width: 1019px;
+  height: 964px;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.box .paymeths {
+  position: absolute;
+  width: 908px;
+  top: 58px;
+  left: 48px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ff0000;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .paymeths-a {
+  position: absolute;
+  width: 910px;
+  height: 116px;
+  top: 139px;
+  left: 48px;
+}
+
+.box .img {
+  position: absolute;
+  width: 82px;
+  height: 68px;
+  top: 0;
+  left: 0;
+}
+
+.box .paymeths-desc {
+  position: absolute;
+  width: 789px;
+  top: 11px;
+  left: 119px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .credit-cards {
+  position: absolute;
+  width: 912px;
+  height: 180px;
+  top: 302px;
+  left: 48px;
+}
+
+.box .text-wrapper {
+  width: 789px;
+  top: 15px;
+  left: 119px;
+  color: #064178;
+  font-size: 26px;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .div {
+  width: 333px;
+  top: 56px;
+  left: 121px;
+  color: #aaa5a5;
+  font-size: 22px;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .visa-i {
+  position: absolute;
+  width: 82px;
+  height: 68px;
+  top: 112px;
+  left: 108px;
+}
+
+.box .dinner-i {
+  position: absolute;
+  width: 82px;
+  height: 68px;
+  top: 112px;
+  left: 235px;
+}
+
+.box .mastercard-i {
+  left: 360px;
+  position: absolute;
+  width: 82px;
+  height: 68px;
+  top: 112px;
+}
+
+.box .paypal-i {
+  top: 111px;
+  left: 484px;
+  position: absolute;
+  width: 82px;
+  height: 69px;
+}
+
+.box .american-i {
+  position: absolute;
+  width: 82px;
+  height: 68px;
+  top: 112px;
+  left: 609px;
+}
+
+.box .debit-cards {
+  position: absolute;
+  width: 912px;
+  height: 180px;
+  top: 535px;
+  left: 48px;
+}
+
+.box .mastercard {
+  left: 225px;
+  position: absolute;
+  width: 82px;
+  height: 68px;
+  top: 112px;
+}
+
+.box .bank-txn {
+  position: absolute;
+  width: 914px;
+  height: 187px;
+  top: 752px;
+  left: 48px;
+}
+
+.box .bank-t {
+  position: absolute;
+  width: 789px;
+  top: 9px;
+  left: 119px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #064178;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .bank-des {
+  position: absolute;
+  width: 787px;
+  top: 50px;
+  left: 121px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .bank-p {
+  position: absolute;
+  width: 333px;
+  top: 84px;
+  left: 121px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #aaa5a5;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .paypal {
+  top: 118px;
+  left: 108px;
+  position: absolute;
+  width: 82px;
+  height: 69px;
+}
+
+.box .close-i {
+  position: absolute;
+  width: 47px;
+  height: 47px;
+  top: 49px;
+  left: 956px;
+}

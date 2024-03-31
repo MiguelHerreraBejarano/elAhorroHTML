@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="./styles/login-form.css" />
+</head>
+<body>
+    <div class="box">
+        <form class="elahorro-login-page">
+            <div class="login-form">
+                <img class="logo-img" src="./img/elahorro-logo-icon.png" />
+                <div class="overlap-group">
+                    <div class="iniciar-title">INICIAR SESIÓN</div>
+                    <div class="email-section">
+                        <div class="text-wrapper">Ingrese su email:</div>
+                        <!-- Añade un id al input de email -->
+                        <input id="email-input" class="div" type="email"></input>
+                    </div>
+                    <div class="clave-section">
+                        <div class="text-wrapper">Ingrese su clave:</div>
+                        <!-- Añade un id al input de clave -->
+                        <input id="password-input" class="div" type="password"></input>
+                    </div>
+                    <!-- Añade un id al botón y usa type="button" para evitar recarga de página -->
+                    <button id="login-button" class="overlap" type="button"><div class="login-text">Iniciar Sesión</div></button>
+                    <button class="register-text-wrapper"><div class="register-text">Registrarse</div></button>
+                    <a class="remember-t">Recordar Calve?</a>
+                </div>
+            </div>
+        </form>
+    </div>
+    <script src="login-form.js"></script>
+</body>
+</html>
